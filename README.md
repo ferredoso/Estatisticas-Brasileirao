@@ -58,10 +58,6 @@ O Streamlit abre automaticamente em:
 
 http://localhost:8501
 
-## 📸 Screenshots
-
-> (adicione prints do dashboard aqui)
-
 ## 👨‍💻 Autor
 
 Feito por **Gabriel Cardoso Ferreira** — [LinkedIn](https://www.linkedin.com/in/gabriel-cardoso-ferreira/) · [GitHub](https://github.com/ferredoso)
